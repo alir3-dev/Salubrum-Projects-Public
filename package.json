@@ -1,0 +1,19 @@
+{
+  "name": "dh-audience-builder-cli",
+  "version": "1.0.0",
+  "description": "A CLI tool for DH Audience Builder",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alir3-dev/Salubrum-Projects-Public.git"
+  },
+  "author": "alir3-dev",
+  "license": "MIT"
+}
